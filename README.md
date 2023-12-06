@@ -12,3 +12,8 @@
 - One Vuee Component Per File
 - Component Props
 - Bring it All Together
+
+## Section 3
+
+- Handle a Form Submission
+- Parent-Child State Communication

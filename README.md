@@ -9,7 +9,7 @@
 ## Section 2
 
 - First Custom Vue Component
-- One Vuee Component Per File
+- One Vue Component Per File
 - Component Props
 - Bring it All Together
 
@@ -17,3 +17,12 @@
 
 - Handle a Form Submission
 - Parent-Child State Communication
+
+## Section 4
+
+- It's All Easy
+- Componeent Responsibility
+- A Deeper Look at V-Model
+- Lifecycle Hooks, Fake APIs and Ajax
+- More Flexible Components With Slots
+- Named Slots

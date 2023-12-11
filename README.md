@@ -26,3 +26,16 @@
 - Lifecycle Hooks, Fake APIs and Ajax
 - More Flexible Components With Slots
 - Named Slots
+
+## Section 5
+
+- Vite
+- Little Confusing Things
+
+## Section 6
+
+- The composition API
+- Two Mental Leaps to Script Setup
+- From Mixins to Composables
+- Composable Example: Local Storage
+- Refactor to defineProps and defineEmits 

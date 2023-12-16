@@ -1,17 +1,13 @@
 <script setup>
+import { ref } from 'vue'
 
+const answer = ref('Quiz question')
 </script>
 
 <template>
-    <div class="quiz-question">
-        <p>Quiz Question</p>
+    <div style="margin-top: 5rem;">
+      <form>
+        <textarea :placeholder="answer" style="width: 100%; height: 300px;" disabled />
+      </form>
     </div>
 </template>
-
-<style>
-.quiz-question {
-    height: 300px;
-    background-color: gray;
-    margin: 10px auto;
-}
-</style>

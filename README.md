@@ -39,3 +39,10 @@
 - From Mixins to Composables
 - Composable Example: Local Storage
 - Refactor to defineProps and defineEmits 
+
+## Section 7
+
+- Dependency Injection With Provide and Inject
+- Store State in an External File
+- Direct Mutation Concerns
+- Say Hello to Pinia

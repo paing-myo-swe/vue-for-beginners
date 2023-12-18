@@ -46,3 +46,8 @@
 - Store State in an External File
 - Direct Mutation Concerns
 - Say Hello to Pinia
+
+## Section 8
+
+- Team Dashboard Code Organization
+- Build and Seed a Team Store

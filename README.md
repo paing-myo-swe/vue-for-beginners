@@ -51,3 +51,9 @@
 
 - Team Dashboard Code Organization
 - Build and Seed a Team Store
+
+## Section 9
+
+- Build a Modal Component
+- Two Ways of Transition
+- Teleporting
